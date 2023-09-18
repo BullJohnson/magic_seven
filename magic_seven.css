@@ -19,7 +19,7 @@ div     {   width: 40%;
                     width: 100%;
                     height: 150px;
                     position: absolute;
-                    margin-top: -100;
+                    margin-top: 0;
 }
 .left_curtain   {   float: left;
                     position: absolute;
